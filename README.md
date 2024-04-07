@@ -60,7 +60,8 @@ RegisterNumber: 212223240119
 
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/a4119997-94cc-4085-8db5-bfac7483c935)
 
-![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/b007dc9a-d581-44ef-8e90-37a7e39f7a05)
+![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/4f6101c0-201d-4a22-a1f2-0dad8c409b9d)
+
 
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/2728883f-f326-4eb4-8618-4e07a5674b28)
 
