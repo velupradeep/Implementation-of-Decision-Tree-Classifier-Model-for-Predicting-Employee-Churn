@@ -57,14 +57,23 @@ RegisterNumber: 212223240119
 
 ## Output:
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/440ddbfa-e582-4be4-bb71-42ea5430edfd)
+
+![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/a4119997-94cc-4085-8db5-bfac7483c935)
+
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/b007dc9a-d581-44ef-8e90-37a7e39f7a05)
-![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/12325e79-4931-46d7-9732-2c885600c2cd)
+
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/2728883f-f326-4eb4-8618-4e07a5674b28)
+
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/a05fbee0-6359-462a-b131-70b0a11e47a5)
+
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/a93325cf-e050-408f-a0ac-280f402e6817)
+
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/dc49799c-de80-44d2-a796-a3d38ae07cc8)
+
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/7547afb6-b10b-4685-89dc-c9077b137561)
+
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/2e46dc5a-4307-49c5-b220-c03e6495fd03)
+
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/8ea21779-b19e-410d-a5e3-19ca07700ec1)
 
 
