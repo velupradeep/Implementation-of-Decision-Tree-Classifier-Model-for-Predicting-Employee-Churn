@@ -1,5 +1,4 @@
-                                                               #NAME:PRADEEP V
-                                                               #REG NO:212223240119
+
 
 # EX-06 Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
@@ -25,6 +24,16 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ```
 ## Program:
 ```
+/*
+Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
+Developed by: PRADEEP V 
+RegisterNumber: 212223240119
+*/
+```
+
+
+
+```
 import pandas as pd
 data=pd.read_csv("C:/Users/admin/Downloads/Employee .csv")
 data.head()
@@ -48,13 +57,6 @@ from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_predict)
 accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
-```
-```
-/*
-Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: PRADEEP V 
-RegisterNumber: 212223240119
-*/
 ```
 
 ## Output:
