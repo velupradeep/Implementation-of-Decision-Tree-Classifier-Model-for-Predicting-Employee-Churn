@@ -81,37 +81,5 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/8ea21779-b19e-410d-a5e3-19ca07700ec1)
 
-
-
-
-```
-
-
-
-
-
-
-
-
-
-
-
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
