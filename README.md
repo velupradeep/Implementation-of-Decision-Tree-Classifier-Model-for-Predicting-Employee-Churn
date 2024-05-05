@@ -58,26 +58,20 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/440ddbfa-e582-4be4-bb71-42ea5430edfd)
-
-![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/a4119997-94cc-4085-8db5-bfac7483c935)
-
-![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/4f6101c0-201d-4a22-a1f2-0dad8c409b9d)
-
-
-![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/2728883f-f326-4eb4-8618-4e07a5674b28)
-
-![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/a05fbee0-6359-462a-b131-70b0a11e47a5)
-
-![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/a93325cf-e050-408f-a0ac-280f402e6817)
-
-![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/dc49799c-de80-44d2-a796-a3d38ae07cc8)
-
-![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/7547afb6-b10b-4685-89dc-c9077b137561)
-
-![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/2e46dc5a-4307-49c5-b220-c03e6495fd03)
-
-![image](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/8ea21779-b19e-410d-a5e3-19ca07700ec1)
+# head()
+![320197629-5e01e860-7b5f-4cc7-9ef7-85dc42ae12b4](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/da220949-9cd7-4c10-8360-928c971a93a0)
+# info()
+![320197660-6c5cec2d-9217-4476-9b5f-b7952fdbc45a](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/cc04b026-b0c3-4241-b076-c10c736e186d)
+# isnull().sum()
+![320197708-06439654-7ed0-4631-846a-465bde883f6e](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/f30d2751-d37e-474e-ad95-f50107a62c2e)
+# value count
+![320198015-3b0430a4-8b3d-4543-a7df-d61bb45af776](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/1a15f492-4f2d-4a60-937e-384c6fca3eeb)
+# head after transform
+![320198055-22a2ace5-bae1-4269-aef0-ff5ea36d6e2e](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/2cc07f8f-4c39-426d-a9e3-4a3af15e8752)
+# x.head()
+![320198064-9db305ef-438a-4744-a2ea-e91672e2e44f](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/921df967-735b-49cd-82b0-a3fe042bb346)
+# accuracy
+![320198107-c0941cd7-26be-4727-aa30-b8bd723383ab](https://github.com/velupradeep/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/150329341/aca67da6-610d-413a-ae28-c3ab4716736d)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
